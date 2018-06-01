@@ -6,9 +6,7 @@
 
 Мастер-классы:
 
-* [Введение в Kotlin](https://docs.google.com/presentation/d/1hTadYCgBEHjnVV3HygM6vJoy8btJXwjAD5GVE4F2cPg/edit#slide=id.p)
-* [ООП в Kotlin](https://docs.google.com/presentation/d/1KBh9TNT0BxsKnNAG1t-l8qTt2PstkYeeE_rMabpiupA/edit#slide=id.g28158cfdb8_0_0)
-* [Git и совместная работа](https://docs.google.com/presentation/d/1-XbdJG4xM-QhVYPwaSDuJFy00rIaOr1aggYmeW2pdb8/edit#slide=id.g284164d6f9_0_0)
+* [Презентация](https://docs.google.com/presentation/d/1NMaPBoGbhrlKbHFrSEAl_aERa5yFdrm9yCQIvk2YVN0/edit#slide=id.g3b9556c891_0_1)
 
 
 Домашнее задание:
