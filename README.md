@@ -21,6 +21,7 @@
 
 * [Kotlin + Android tools](https://docs.google.com/presentation/d/1VO2XrUpLFc49Qs8Ya2-Iokf0vfivvU1WYMUszujV0GM/edit#slide=id.g287286d170_0_0)
 * [Продвинутый UI](https://docs.google.com/presentation/d/1dNSyLjcuKdHXpAXNSUeA3dFUbCrPK5BXMMNtSHAEROE/edit#slide=id.g287286d170_0_0)
+* [Макет пользовательского интерфейса](https://docs.google.com/presentation/d/1xpCLgCvJn2GotpKFR9w0qZayK0Qc5fKMvy-LXjcU-HQ/edit#slide=id.p1)
 
 Практика - доводка идей. 
 
