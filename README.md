@@ -30,3 +30,4 @@
 * [Вводна презентация](https://docs.google.com/presentation/d/1nYrgVX7OtLg7bmOg3Y3veRlzF_u4WzMqfGwxplFBnFo/edit#slide=id.p)
 * [Таблица подвигов](https://docs.google.com/spreadsheets/d/1_YoM97PYxOK3rU1ZJw_2lKaaoqCHt5yVxxsZyC1-9K4/edit#gid=0)
 * [Все лекции](https://drive.google.com/drive/folders/0B-cth7-Fd75FQnJLYktiX3JhT2c)
+* [Инструкция по настройке эмулятора](https://docs.google.com/document/d/13EcEB7shriwXtsY3y10eWcfl0OtDMHtHNEuC6jgbjGU)
