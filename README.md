@@ -31,3 +31,4 @@
 * [Таблица подвигов](https://docs.google.com/spreadsheets/d/1_YoM97PYxOK3rU1ZJw_2lKaaoqCHt5yVxxsZyC1-9K4/edit#gid=0)
 * [Все лекции](https://drive.google.com/drive/folders/0B-cth7-Fd75FQnJLYktiX3JhT2c)
 * [Инструкция по настройке эмулятора](https://docs.google.com/document/d/13EcEB7shriwXtsY3y10eWcfl0OtDMHtHNEuC6jgbjGU)
+* [Инструкция по настройке эмулятора (Windows)](https://docs.google.com/document/d/1KQF6sBIdHn9oFpk0PMzNf5s9PW5IVDGCedpEPVo0Vmc)
