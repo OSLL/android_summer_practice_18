@@ -46,7 +46,10 @@
 * Собрать по [инструкции](https://docs.google.com/presentation/d/1OB191d69cI4QZPKhc1SegDkz6flyNxTRuwYfQP9D_ck/edit#slide=id.p)
 
 
-* [Презентация про публикацию (теория)](https://docs.google.com/presentation/d/1YpOypgsB2tPMxSWP7ur2krNFuDhmqKshZkiIq7Vo3C8/edit#slide=id.g30881f537c_0_1)
+
+
+
+[Презентация про публикацию (теория)](https://docs.google.com/presentation/d/1YpOypgsB2tPMxSWP7ur2krNFuDhmqKshZkiIq7Vo3C8/edit#slide=id.g30881f537c_0_1)
 
 ## Ссылки
 
